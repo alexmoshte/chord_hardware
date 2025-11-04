@@ -1,4 +1,4 @@
-27208345220064122
+27210107457494761
 Aron_footprint
 60x180 SPI Disp 0.96in
 
@@ -108118,6 +108118,13 @@ moshte
 FB_0603
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
+0
+2
+2
+moshte
+LED_0603
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
 0
 2
 2

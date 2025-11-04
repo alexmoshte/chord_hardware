@@ -510,7 +510,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../Sila/Chord Board Controller_A.step",
+      "step": "Chord_Board_Controller.step",
       "svg": "",
       "vrml": ""
     },

@@ -1,0 +1,12 @@
+Changed footprint C15 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C14 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C13 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C1 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C30 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C10 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C33 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C34 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C11 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C31 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C28 from 'moshte:C_0603' to 'moshte:C_0603': : OK
+Changed footprint C12 from 'moshte:C_0603' to 'moshte:C_0603': : OK

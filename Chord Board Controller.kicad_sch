@@ -8886,6 +8886,17 @@
 		)
 		(uuid "86846a74-f951-422c-8708-1be20842fede")
 	)
+	(text "Chord Board Controller"
+		(exclude_from_sim no)
+		(at 351.536 276.606 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(color 255 153 0 1)
+			)
+		)
+		(uuid "91f352ad-1cbe-44e7-a1b8-25660a1748c1")
+	)
 	(text "Mode : High efficiency mode (Low power ripple)"
 		(exclude_from_sim no)
 		(at 85.09 94.234 0)
